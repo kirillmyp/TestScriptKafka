@@ -1,2 +1,2 @@
 # TestScriptKafka
-Script for testing
+Скрипты для тестирование кафки
