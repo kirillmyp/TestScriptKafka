@@ -1,0 +1,2 @@
+# TestScriptKafka
+Script for testing
